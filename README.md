@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 
 
 Install the libraries below:
-	Adafruit Unified Sensor
-	Adafruit DHT sensor Library
+* Adafruit Unified Sensor
+* Adafruit DHT sensor Library
 
 
