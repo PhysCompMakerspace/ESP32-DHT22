@@ -8,3 +8,8 @@ Add the following URL to the "Additional boards manager URLs:"
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
 
+Install the libraries below:
+	Adafruit Unified Sensor
+	Adafruit DHT sensor Library
+
+
