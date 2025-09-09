@@ -23,3 +23,9 @@ Install the libraries below:
 * Adafruit DHT sensor Library
 
 
+Workshop steps:
+
+1. Load DHTtester from this repository or find it in the examples within Arduion IDE.
+2. Load DHT_Tester_wWLED.ino, which has a slight modification that allows you to control an on-board LED on the ESP32.
+3. Integrate serial communications form the ESP32 with Python by running ESP32_serial_reader.py
+4. Profit.
