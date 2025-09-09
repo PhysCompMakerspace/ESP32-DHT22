@@ -8,6 +8,7 @@ Add the following URL to the "Additional boards manager URLs:"
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
 ESP32 Driver:
+
 Go to: https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers
 Download the “CP210x Windows Driver” or “SiLabsUSBDriverDisk.dmg” for MacOS
 Unzip and install the driver
